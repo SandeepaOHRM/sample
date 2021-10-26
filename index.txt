@@ -1,3 +1,4 @@
 Hello sandeepa
 
 added minor changes to the index file
+new line added from VSCode - editor Sandeepa
