@@ -3,3 +3,4 @@ Hello sandeepa
 added minor changes to the index file
 new line added from VSCode - editor Sandeepanew line added from bash terminal - edior sandeeapa
 Another line added via terminal
+testing from vs code
