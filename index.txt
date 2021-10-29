@@ -1,4 +1,4 @@
 Hello sandeepa
 
 added minor changes to the index file
-new line added from VSCode - editor Sandeepa
+new line added from VSCode - editor Sandeepanew line added from bash terminal - edior sandeeapa
