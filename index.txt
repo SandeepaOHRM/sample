@@ -5,3 +5,4 @@ new line added from VSCode - editor Sandeepanew line added from bash terminal - 
 Another line added via terminal
 testing from vs code
 new line added from phpstorm
+new line added from master
